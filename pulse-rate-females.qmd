@@ -1,0 +1,14 @@
+---
+title: "pulse-rate-females"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(primer.data)
+library(tidyverse)
+```
+
